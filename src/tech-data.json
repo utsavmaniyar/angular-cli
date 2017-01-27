@@ -1,0 +1,594 @@
+{
+    "technologies":[
+        {
+            "name":"HTML",
+            "popularity" : 80,
+            "version": "HTML5",
+            "launch" : 1997,
+            "id":1,
+            "QA":[
+                {
+                    "question" : "This is first sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for HTML?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"CSS",
+            "popularity" : 60,
+            "version": "CSS3",
+            "launch" : 1996,
+            "id":2,
+            "QA":[
+                {
+                    "question" : "This is first sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for CSS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"SASS",
+            "popularity" : 78,
+            "version": "SASS 4.0.0",
+            "launch" : 2010,
+            "id":3,
+            "QA":[
+                {
+                    "question" : "This is first sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for SASS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"JavaScript",
+            "popularity" : 67,
+            "version": "ES2015",
+            "launch" : 1997,
+            "id":4,
+            "QA":[
+                {
+                    "question" : "This is first sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for JavaScript?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"AngularJS",
+            "popularity" : 70,
+            "version": "Angular 2.4.3",
+            "launch" : 2010,
+            "id":5,
+            "QA":[
+                {
+                    "question" : "This is first sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for AngularJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"ReactJS",
+            "popularity" : 55,
+            "version": "React 15.4",
+            "launch" : 2013,
+            "id":6,
+            "QA":[
+                {
+                    "question" : "This is first sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for ReactJS?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"C#",
+            "popularity" : 62,
+            "version": "C# 6.0",
+            "launch" : 2000,
+            "id":7,
+            "QA":[
+                {
+                    "question" : "This is first sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for C#?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"PHP",
+            "popularity" : 68,
+            "version": "PHP 7.1",
+            "launch" : 1995,
+            "id":8,
+            "QA":[
+                {
+                    "question" : "This is first sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for PHP?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"JAVA",
+            "popularity" : 85,
+            "version": "JAVA SE 8",
+            "launch" : 1996,
+            "id":9,
+            "QA":[
+                {
+                    "question" : "This is first sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for JAVA?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        },
+        {
+            "name":"WordPress",
+            "popularity" : 50,
+            "version": "WordPress 4.7.1",
+            "launch" : 2003,
+            "id":10,
+            "QA":[
+                {
+                    "question" : "This is first sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 1
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 2
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 3
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 4
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 5
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 6
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 7
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 8
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 9
+                },
+                {
+                    "question" : "This is sample question for WordPress?",
+                    "answer": "This is sample answer for above question.",
+                    "id" : 10
+                }
+            ]
+        }
+    ]
+}

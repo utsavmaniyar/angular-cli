@@ -1,0 +1,24 @@
+<h3>
+  Best Question in Top 10 Technologies.
+</h3>
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div *ngFor="let technology of data" class="col-sm-12">
+
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="{{'heading' +technology.id}}">
+          <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="{{'#collapse' +technology.id}}" aria-expanded="false">
+              {{technology.QA[0].question}}
+            </a>
+          </h4>
+        </div>
+        <div id="{{'collapse' +technology.id}}" class="panel-collapse collapse in" role="tabpanel" aria-expanded="false" >
+          <div class="panel-body">
+              {{technology.QA[0].answer}}          
+          </div>
+        </div>
+      </div>
+
+    </div>
+</div>

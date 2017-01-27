@@ -1,0 +1,44 @@
+
+/*Style for Stack API*/
+.add-on .input-group-btn > .btn {
+  border-left-width:0;
+  left:-2px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.stack-container{
+    margin-top: 20px;
+}
+.stack{
+    margin-top: 20px;
+}
+.stack-hit{
+    overflow: hidden;
+}
+.tx-bn{
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    color: #f3f3f3;
+}
+.tx-bn + p{
+    text-align: center;
+}
+
+.views{
+    background-color: #337ab7;
+}
+.answer{
+    background-color: #3c763d;
+    
+}
+
+.score{
+    background-color: #a94442;
+ 
+}
+.tags{
+    display: inline;
+    color: #369;
+}

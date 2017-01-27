@@ -1,0 +1,11 @@
+#bar svg{
+    background-color: blueviolet;
+    margin: 0 auto;
+    display: block;
+    }
+
+    .line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
