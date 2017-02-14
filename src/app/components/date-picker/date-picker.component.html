@@ -1,0 +1,13 @@
+<p>
+  date-picker works!
+</p>
+
+<form #myForm1="ngForm" (ngSubmit)="onSubmitNgModel1()"  novalidate>
+    <my-date-picker name="mydate" [options]="myDatePickerOptions"
+                    [(ngModel)]="model1" required></my-date-picker>
+</form>
+
+<form #myForm2="ngForm" (ngSubmit)="onSubmitNgModel2()"  novalidate>
+    <my-date-picker name="mydate" [options]="myDatePickerOptions"
+                    [(ngModel)]="model2" required></my-date-picker>
+</form>

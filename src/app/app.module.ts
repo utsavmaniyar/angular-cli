@@ -1,9 +1,11 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { D3Service } from 'd3-ng2-service';
+import { MyDatePickerModule } from 'mydatepicker';
+import { MyDateRangePickerModule } from 'mydaterangepicker';
 
 import { AppComponent } from './app.component';
 import { UserComponent }  from './components/user/user.component';
@@ -17,6 +19,9 @@ import { HomeComponent } from './components/home/home.component';
 import { TopQuestionsComponent } from './components/top-questions/top-questions.component';
 import { TechnologyComponent } from './components/technology/technology.component';
 import { TechnologyDetailComponent } from './components/technology-detail/technology-detail.component';
+import { DatePickerComponent } from './components/date-picker/date-picker.component';
+import { DateRangePickerComponent } from './components/date-range-picker/date-range-picker.component';
+import { HistoryComponent } from './components/history/history.component';
 
 @NgModule({
   declarations: [
@@ -31,12 +36,18 @@ import { TechnologyDetailComponent } from './components/technology-detail/techno
     TechD3Component,
     TechnologyComponent,
     TechnologyDetailComponent,
+    DatePickerComponent,
+    DateRangePickerComponent,
+    HistoryComponent,
   ],
   imports: [
     BrowserModule,
+    ReactiveFormsModule,
     FormsModule,
     HttpModule,
     Routing,
+    MyDatePickerModule,
+    MyDateRangePickerModule,
     // AlertModule
   ],
   providers: [D3Service],

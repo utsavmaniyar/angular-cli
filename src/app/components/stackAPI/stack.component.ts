@@ -17,7 +17,7 @@ export class StackComponent  {
   getResult(Search:string){
       this.searchService.getSearch(Search).subscribe(post => {
       this.stack = post.items;
-      console.dir(this.stack);
+      console.log("hi this is test",this.stack);
     })
   }
 }
